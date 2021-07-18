@@ -8,3 +8,8 @@
 - Execute Program
 - Khan Academy: Computer Science Course
 - Codewars
+
+## Ideas: Read
+
+
+## Ideas: Solve
