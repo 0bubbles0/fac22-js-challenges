@@ -26,7 +26,7 @@ console.log(
 	', Expected []'
 );
 
-function filter1(arr, callback) {
+function f(arr, callback) {
 	const result = [];
 	arr.forEach(x => {
 		if (callback(x)) {
@@ -37,7 +37,7 @@ function filter1(arr, callback) {
 }
 
 //Bonus: Use reduce
-function filter2(arr, callback) {
+function f(arr, callback) {
 	return arr.reduce((acc, current) => {
 		// console.log(acc);
 		// console.log(typeof acc);
