@@ -19,3 +19,8 @@ function f(arr1, arr2) {
 	});
 	return result;
 }
+
+//What does this return?
+const numbers = [1, [2, 3]];
+numbers.flat();
+numbers; // [1, [2, 3]]
