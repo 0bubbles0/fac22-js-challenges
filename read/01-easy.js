@@ -24,3 +24,5 @@ function f(arr1, arr2) {
 const numbers = [1, [2, 3]];
 numbers.flat();
 numbers; // [1, [2, 3]]
+
+console.log("Hello");
